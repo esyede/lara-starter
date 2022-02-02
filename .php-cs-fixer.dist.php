@@ -17,7 +17,7 @@ $finder = Finder::create()
 foreach ($files as $file) {
     $finder->notName($file);
 }
-    
+
 return (new Config())
     ->setRiskyAllowed(false)
     ->setRules($rules)
