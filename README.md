@@ -3,7 +3,7 @@
 A simple laravel 8 with vuejs 2 admin boilerplate
 
 ```bash
-git clone https://github.com/trijayadigital/whatsapp-gateway
+git clone https://github.com/esyede/lara-starter
 cd lara-starter
 cp .env.example .env
 composer install
